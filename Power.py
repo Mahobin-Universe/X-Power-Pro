@@ -4,7 +4,7 @@ from time import sleep
 
 try:
 
-    __import__("xpower").__niki____()
+    __import__("niki").__niki____()
 
 except Exception as e:
 
